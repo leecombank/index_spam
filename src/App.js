@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <div class="post-container">
             <h1>[Video] Gadis itu sangat menarik dan seksi, tonton cepat sebelum facebook menghapusnya</h1>
-            <a target="_self" href="https://churchonthego.org/">
+            <a target="_self" href="https://hotvideo24h.fun/">
               <img src="https://i.imgur.com/mseWFBc.png" alt="[Video] Gadis itu sangat menarik dan seksi, tonton cepat sebelum facebook menghapusnya" />
             </a>
         </div>
